@@ -1,10 +1,9 @@
-from brain.jarvis import Jarvis
+from brain.jack import Jack
 
 
 def main():
-    jarvis = Jarvis()
-    print('Ready')
-    jarvis.start()
+    jack = Jack()
+    jack.start()
 
 
 if __name__ == '__main__':
