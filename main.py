@@ -1,9 +1,10 @@
-from brain.jack import Jack
+from brain.jarvis import Jarvis
+from computer.computer import Browser
 
 
 def main():
-    jack = Jack()
-    jack.start()
+    jarvis = Jarvis()
+    jarvis.start()
 
 
 if __name__ == '__main__':

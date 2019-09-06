@@ -1,2 +1,3 @@
 {"data": [{"keywords":["chrome", "open"], "todo": {"func": "open_chrome", "args": []}, "say": "opening chrome"},
-  {"keywords":["youtube", "open"], "todo": {"func": "open_chrome", "args": ["www.youtube.com", "test"]}, "say": "opening youtube"}]}
+  {"keywords":["youtube", "open"], "todo": {"func": "open_chrome", "args": ["www.youtube.com", "test"]}, "say": "opening youtube"},
+  {"keywords":["youtube", "search"], "todo": {"func": "search_youtube", "args": []}, "say": "searching youtube"}]}
