@@ -23,3 +23,6 @@ class Listener:
                         pass
             except OSError:
                 pass
+
+    def get_cli_input(self):
+        return input()
